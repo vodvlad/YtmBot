@@ -31,7 +31,7 @@ In the headers_auth.json file, you must insert the Cookie and User-Agent.
 * In Google search, enter "My user agent" and copy the data.  
 ![image](https://user-images.githubusercontent.com/20659925/178163890-1b648f20-92de-4467-83fb-d4a542e20884.png)
 ![image](https://user-images.githubusercontent.com/20659925/178163932-9393d7d8-4805-4bec-bfbb-d7e9175de9b3.png)
-* Launch the bot via ***TelegBot.py***
+Launch the bot via ***TelegBot.py***
 
 
 
