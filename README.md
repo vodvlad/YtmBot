@@ -10,3 +10,6 @@ In the TelegBot.py file you have to insert the generated token into the TOKEN.
 
 ![image](https://user-images.githubusercontent.com/20659925/178163089-5fb56430-1020-4c93-9315-9ca41a0921b8.png)
 
+![image](https://user-images.githubusercontent.com/20659925/178163460-dd89957a-fcf3-4904-a26c-685489b29f6c.png)
+
+![image](https://user-images.githubusercontent.com/20659925/178163481-ee1e4127-3cfd-4c18-a11f-d1138fb5018e.png)
