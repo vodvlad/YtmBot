@@ -19,6 +19,7 @@ In the headers_auth.json file, you must insert the Cookie and User-Agent.
 * Find an authenticated POST request. The simplest way is to filter by ***/browse*** using the search bar of the developer tools. If you don’t see the request, try scrolling down a bit or clicking on the library button in the top bar.
 
 ![image](https://user-images.githubusercontent.com/20659925/178163481-ee1e4127-3cfd-4c18-a11f-d1138fb5018e.png)
+* Click on the Name of any matching request. In the “Headers” tab, scroll to the section “Request headers” and copy everything starting from “accept: */*” to the end of the section
 
 ![image](https://user-images.githubusercontent.com/20659925/178163502-ab512085-0f53-47c2-8dd3-805e0538dc1f.png)
 
