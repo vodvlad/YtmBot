@@ -15,7 +15,8 @@ In the headers_auth.json file, you must insert the Cookie and User-Agent.
 * Open the developer tools (Ctrl-Shift-I) and select the “Network” tab  
 * Go to [YouTube Music](https://music.youtube.com) and ensure you are logged in
 
-![image](https://user-images.githubusercontent.com/20659925/178163460-dd89957a-fcf3-4904-a26c-685489b29f6c.png)
+![image](https://user-images.githubusercontent.com/20659925/178163460-dd89957a-fcf3-4904-a26c-685489b29f6c.png)  
+* Find an authenticated POST request. The simplest way is to filter by /browse using the search bar of the developer tools. If you don’t see the request, try scrolling down a bit or clicking on the library button in the top bar.
 
 ![image](https://user-images.githubusercontent.com/20659925/178163481-ee1e4127-3cfd-4c18-a11f-d1138fb5018e.png)
 
