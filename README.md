@@ -23,8 +23,10 @@ In the headers_auth.json file, you must insert the Cookie and User-Agent.
 
 ![image](https://user-images.githubusercontent.com/20659925/178163502-ab512085-0f53-47c2-8dd3-805e0538dc1f.png)
 
-![image](https://user-images.githubusercontent.com/20659925/178163535-265b319e-4ddf-4c8e-95ad-ed14bafc4c65.png)\
+![image](https://user-images.githubusercontent.com/20659925/178163535-265b319e-4ddf-4c8e-95ad-ed14bafc4c65.png)
 * Copy the cookie string and paste it.
 
 ![image](https://user-images.githubusercontent.com/20659925/178163593-f207d826-38e0-485e-9f05-368cc7185e15.png)
+![image](https://user-images.githubusercontent.com/20659925/178163852-72835f0c-28a7-456c-bc0c-3787e1129105.png)
+
 
