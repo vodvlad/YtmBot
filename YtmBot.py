@@ -21,7 +21,7 @@ def handle_docs_photo(message):
         src = message.audio.file_name
         with open(src, 'wb') as new_file:
             new_file.write(downloaded_file)
-        bot.reply_to(message, "⏳I start downloading...")
+        bot.reply_to(message, "⏳Starting loading...")
         upload(src)
         bot.reply_to(message, "✅ Downloaded, enjoy!")
         
@@ -32,7 +32,7 @@ def handle_docs_photo(message):
 @bot.message_handler(content_types=['text'])
 def sendmessage(message):
     if(message.text[0] == 'h' and message.text[1] == 't' and message.text[2] == 't'):
-        bot.reply_to(message, "⏳I start downloading...")
+        bot.reply_to(message, "⏳Starting loading...")
         zxc = get_mp3(message.text)
         upload(zxc)
         bot.reply_to(message, "✅ Downloaded, enjoy!")
