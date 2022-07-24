@@ -1,5 +1,5 @@
 # Introduction
-This bot was created to upload audio files to YouTube Music. To use the bot, you need to send him a link to a video from YouTube. The bot will download the video locally and convert it to mp3 format, then upload the audio file to the YouTube music service. You can also send a regular audio file to the bot, it will also automatically upload the file to the service.  
+This telegram bot was created to upload audio files to YouTube Music. To use the bot, you need to send him a link to a video from YouTube. The bot will download the video locally and convert it to mp3 format, then upload the audio file to the YouTube music service. You can also send a regular audio file to the bot, it will also automatically upload the file to the service.  
 
 # Starting
 
